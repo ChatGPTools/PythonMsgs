@@ -25,6 +25,9 @@ git clone https://github.com/ChatGPTools/PythonMsgs.git
 ```
 
 **Navigare nella directory del progetto**
+```bash
+cd PythonMsgs
+```
 
 **Eseguire il server:**
 ```bash
